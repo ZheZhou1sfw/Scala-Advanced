@@ -51,5 +51,5 @@ object CurriesPAF extends App {
     1. Process a list of numbers and return their string representations with different formats
    */
 
-
+  
 }
