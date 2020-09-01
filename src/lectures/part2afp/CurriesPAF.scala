@@ -1,4 +1,4 @@
-package lectures.part1as.part2afp
+package lectures.part2afp
 
 object CurriesPAF extends App {
 
